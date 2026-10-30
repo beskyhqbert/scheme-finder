@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PM-KISAN",
+    "who": "Small and marginal farmer families owning cultivable land. Not for income-tax payers or institutional landholders.",
+    "benefit": "Rs 6,000 per year in three installments, paid to the bank account.",
+    "documents": ["Aadhaar", "Land records", "Bank account"],
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Ayushman Bharat PM-JAY",
+    "who": "Eligible low-income families listed in the SECC database; all citizens aged 70+ are also covered.",
+    "benefit": "Health insurance cover up to Rs 5 lakh per family per year for hospital treatment.",
+    "documents": ["Aadhaar", "Ration card"],
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "name": "PM Ujjwala Yojana",
+    "who": "Women from poor households without an LPG connection.",
+    "benefit": "Free LPG connection.",
+    "documents": ["Aadhaar", "Ration card", "Bank account"],
+    "link": "https://www.pmuy.gov.in"
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "who": "Indian citizens aged 18 to 40 with a bank account, mainly unorganised-sector workers. Income-tax payers are not eligible.",
+    "benefit": "Guaranteed monthly pension of Rs 1,000 to Rs 5,000 after age 60.",
+    "documents": ["Aadhaar", "Bank account", "Mobile number"],
+    "link": "https://www.npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "name": "PM Awas Yojana",
+    "who": "Families without a pucca house, with income limits that depend on the category (urban or rural).",
+    "benefit": "Financial help to build or buy a house.",
+    "documents": ["Aadhaar", "Income proof", "Bank account", "Land or property details"],
+    "link": "https://pmaymis.gov.in"
+  },
+  {
+    "name": "PM Jan Dhan Yojana",
+    "who": "Any Indian citizen aged 10+ without a bank account.",
+    "benefit": "Zero-balance bank account, RuPay debit card and accident insurance.",
+    "documents": ["Aadhaar or other ID"],
+    "link": "https://pmjdy.gov.in"
+  },
+  {
+    "name": "National Scholarship Portal",
+    "who": "School and college students; eligibility depends on the specific scholarship (income, category, marks).",
+    "benefit": "Scholarships from central and state governments.",
+    "documents": ["Aadhaar", "Marksheet", "Income certificate", "Bank account"],
+    "link": "https://scholarships.gov.in"
+  }
+]
